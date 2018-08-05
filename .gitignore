@@ -1,5 +1,10 @@
+# Pablo Mateo Files
+.DS_Store
+__pycache__
+cargo_planning-[0-9]*.zip
+cargo_planning-result-[0-9]*.json
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
